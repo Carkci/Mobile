@@ -1,0 +1,3 @@
+/Users/Carkci/Projects/Mobile/Mobile.IOS/obj/iPhone/Debug/mtouch-cache/Link/MobileIOS.exe
+/Users/Carkci/Projects/Mobile/Mobile.IOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/Carkci/Projects/Mobile/Mobile.IOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
