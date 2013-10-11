@@ -1,0 +1,5 @@
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\bin\iPhone\Debug\MobileIOS.exe
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\bin\iPhone\Debug\MobileIOS.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhone\Debug\Mobile.IOS.csprojResolveAssemblyReference.cache
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhone\Debug\MobileIOS.exe
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhone\Debug\MobileIOS.pdb

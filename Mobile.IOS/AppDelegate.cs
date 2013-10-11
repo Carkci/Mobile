@@ -14,7 +14,7 @@ namespace Mobile.IOS
 	{
 		// class-level declarations
 		UIWindow window;
-		Mobile_IOSViewController viewController;
+		MobileIosViewController viewController;
 		//
 		// This method is invoked when the application has loaded and is ready to run. In this 
 		// method you should instantiate the window, load the UI into it and then make the window
@@ -26,7 +26,7 @@ namespace Mobile.IOS
 		{
 			window = new UIWindow (UIScreen.MainScreen.Bounds);
 			
-			viewController = new Mobile_IOSViewController ();
+			viewController = new MobileIosViewController ();
 			window.RootViewController = viewController;
 			window.MakeKeyAndVisible ();
 			

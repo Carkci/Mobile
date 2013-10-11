@@ -1,0 +1,14 @@
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Android.dll
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Android.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Android.dll.mdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Android.apk
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Android-Signed.apk
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\Mobile.Android.csprojResolveAssemblyReference.cache
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\Mobile.Android.dll
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\Mobile.Android.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\android\bin\Mobile.Android.apk
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\res\layout\main.xml
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\res\values\strings.xml
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\res\drawable\icon.png
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\R.cs.flag
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\uploadflags.txt

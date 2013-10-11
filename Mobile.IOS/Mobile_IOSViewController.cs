@@ -1,17 +1,15 @@
 using System;
-using System.Drawing;
-using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
 namespace Mobile.IOS
 {
-	public partial class Mobile_IOSViewController : UIViewController
+	public partial class MobileIosViewController : UIViewController
 	{
 		static bool UserInterfaceIdiomIsPhone {
 			get { return UIDevice.CurrentDevice.UserInterfaceIdiom == UIUserInterfaceIdiom.Phone; }
 		}
 
-		public Mobile_IOSViewController ()
+		public MobileIosViewController ()
 			: base (UserInterfaceIdiomIsPhone ? "Mobile_IOSViewController_iPhone" : "Mobile_IOSViewController_iPad", null)
 		{
 		}
@@ -31,7 +29,8 @@ namespace Mobile.IOS
 			// Perform any additional setup after loading the view, typically from a nib.
 		}
 
-		public override bool ShouldAutorotateToInterfaceOrientation (UIInterfaceOrientation toInterfaceOrientation)
+	  [Obsolete("Deprecated in iOS6. Replace it with both GetSupportedInterfaceOrientations and PreferredInterfaceOrientationForPresentation", false)]
+	  public override bool ShouldAutorotateToInterfaceOrientation (UIInterfaceOrientation toInterfaceOrientation)
 		{
 			// Return true for supported orientations
 			if (UserInterfaceIdiomIsPhone) {

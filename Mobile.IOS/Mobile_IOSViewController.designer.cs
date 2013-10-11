@@ -8,7 +8,7 @@ using MonoTouch.Foundation;
 namespace Mobile.IOS
 {
 	[Register ("Mobile_IOSViewController")]
-	partial class Mobile_IOSViewController
+	partial class MobileIosViewController
 	{
 		void ReleaseDesignerOutlets ()
 		{
