@@ -1,1 +1,2 @@
 C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Android.dll
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Lib\bin\Debug\Mobile.Lib.dll

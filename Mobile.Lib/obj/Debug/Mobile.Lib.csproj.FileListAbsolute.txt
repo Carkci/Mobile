@@ -1,0 +1,5 @@
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Lib\bin\Debug\Mobile.Lib.dll
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Lib\bin\Debug\Mobile.Lib.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Lib\obj\Debug\Mobile.Lib.csprojResolveAssemblyReference.cache
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Lib\obj\Debug\Mobile.Lib.dll
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Lib\obj\Debug\Mobile.Lib.pdb

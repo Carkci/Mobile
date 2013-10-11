@@ -1,0 +1,10 @@
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\bin\iPhoneSimulator\Debug\MobileIOS.exe
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\bin\iPhoneSimulator\Debug\MobileIOS.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhoneSimulator\Debug\Mobile.IOS.csprojResolveAssemblyReference.cache
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhoneSimulator\Debug\MobileIOS.exe
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhoneSimulator\Debug\MobileIOS.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\bin\iPhoneSimulator\Debug\Mobile.Lib.dll
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\bin\iPhoneSimulator\Debug\Mobile.Lib.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\bin\iPhoneSimulator\Debug\Mobile.Lib.dll.mdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhoneSimulator\Debug\Mobile.IOS.Resources.resources
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.IOS\obj\iPhoneSimulator\Debug\Mobile.IOS.csproj.GenerateResource.Cache

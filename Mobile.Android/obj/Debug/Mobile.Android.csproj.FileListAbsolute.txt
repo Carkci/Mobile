@@ -12,3 +12,6 @@ C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\res\values\str
 C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\res\drawable\icon.png
 C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\R.cs.flag
 C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\obj\Debug\uploadflags.txt
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Lib.dll
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Lib.pdb
+C:\Users\YCarkci\Documents\GitHub\Mobile\Mobile.Android\bin\Debug\Mobile.Lib.dll.mdb

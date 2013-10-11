@@ -1,5 +1,7 @@
 using System;
+using System.IO;
 using MonoTouch.UIKit;
+using SQLite;
 
 namespace Mobile.IOS
 {
@@ -12,6 +14,10 @@ namespace Mobile.IOS
 		public MobileIosViewController ()
 			: base (UserInterfaceIdiomIsPhone ? "Mobile_IOSViewController_iPhone" : "Mobile_IOSViewController_iPad", null)
 		{
+      var dbPath = Path.Combine(Resources.ResourceManager.BaseName, "mobile.db3");
+      var db = new SQLiteConnection(dbPath);
+      
+     
 		}
 
 		public override void DidReceiveMemoryWarning ()
@@ -25,6 +31,8 @@ namespace Mobile.IOS
 		public override void ViewDidLoad ()
 		{
 			base.ViewDidLoad ();
+
+     
 			
 			// Perform any additional setup after loading the view, typically from a nib.
 		}
